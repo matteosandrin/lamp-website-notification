@@ -1,1 +1,2 @@
+python-kasa==0.5.4
 python-pushover-open-client==0.0.15
